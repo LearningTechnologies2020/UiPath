@@ -62,7 +62,7 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:GetPassword DisplayName="Get Password" sap:VirtualizedContainerService.HintSize="881,22" sap2010:WorkflowViewState.IdRef="GetPassword_2" ProtectedPassword="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAGtGeckQiPkOhCZEpkTq9BgAAAAACAAAAAAAQZgAAAAEAACAAAADCsceVqj3nTOxRlr4G2bDMxgthldS51VCdujNO8gl+FgAAAAAOgAAAAAIAACAAAADhK/zt+/iiFxcZzLbcH0uD0tyMDv/0mMsmPlYnJ0Nu0BAAAACm/qusCVtyX3TnlV8JLJlIQAAAAHklsdQXFVeWUbZsFyd6IeS1d0msmzhoUQoHnQCIhFPTOLLBhNHpvqI4g+ifZklr/pPhItM7grtOpQgjd1mm0nY=" Result="[Setpwd]" />
-    <ui:ExcelApplicationScope Password="{x:Null}" DisplayName="Excel Application Scope" sap:VirtualizedContainerService.HintSize="881,834" sap2010:WorkflowViewState.IdRef="ExcelApplicationScope_1" WorkbookPath="Email.xlsx">
+    <ui:ExcelApplicationScope Password="{x:Null}" DisplayName="Excel Application Scope" sap:VirtualizedContainerService.HintSize="881,834" sap2010:WorkflowViewState.IdRef="ExcelApplicationScope_1" WorkbookPath="Email1.xlsx">
       <ui:ExcelApplicationScope.Body>
         <ActivityAction x:TypeArguments="ui:WorkbookApplication">
           <ActivityAction.Argument>
